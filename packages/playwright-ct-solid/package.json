@@ -31,6 +31,6 @@
     "@playwright/test": "1.29.0-next"
   },
   "devDependencies": {
-    "solid-js": "^1.4.7"
+    "solid-js": "^1.9.4"
   }
 }
